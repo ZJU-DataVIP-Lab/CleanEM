@@ -11,7 +11,7 @@ cd CleanEM
 
 # Create and activate the conda environment (Python 3.10)
 conda env create -f environment.yml
-conda activate cleaningllm
+conda activate cleanem
 ```
 
 ## Datasets
